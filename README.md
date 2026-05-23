@@ -199,7 +199,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 
 ## 👥 Authors
 
-**Prasad Navale** - [GitHub](https://github.com/prasadnavale) | [LinkedIn](https://linkedin.com/in/prasadnavale) | [Portfolio](https://ngts.tech)
+**Bhushan Ahire** - [GitHub](https://github.com/Bhush8766) | [LinkedIn](https://linkedin.com/in/prasadnavale) | [Portfolio](https://ngts.tech)
 
 ---
 
