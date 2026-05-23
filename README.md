@@ -199,7 +199,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 
 ## 👥 Authors
 
-**Bhushan Ahire** - [GitHub](https://github.com/Bhush8766) | [LinkedIn](https://linkedin.com/in/prasadnavale) | [Portfolio](https://ngts.tech)
+**Bhushan Ahire** - [GitHub](https://github.com/Bhush8766) | [LinkedIn](https://www.linkedin.com/in/bhushan-ahire-83ab29200?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | [Portfolio](https://bhush-portfolio.vercel.app/)
 
 ---
 
@@ -214,8 +214,8 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 
 ## 📞 Support
 
-- Email: navaleprasad15@gmail.com
-- Portfolio: [ngts.tech](https://ngts.tech)
+- Email: bhushanahire8488@gmail.com
+- Portfolio: [ngts.tech](https://bhush-portfolio.vercel.app/)
 
 ---
 
