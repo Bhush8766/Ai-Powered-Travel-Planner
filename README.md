@@ -232,7 +232,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 
 <div align="center">
 
-**Made with ❤️ by Prasad Navale**
+**Made with ❤️ by Bhushan Ahire**
 
 [⬆ Back to Top](#-ai-power-tours---intelligent-travel-booking-platform)
 
