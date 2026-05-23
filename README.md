@@ -215,7 +215,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 ## 📞 Support
 
 - Email: bhushanahire8488@gmail.com
-- Portfolio: [ngts.tech](https://bhush-portfolio.vercel.app/)
+- Portfolio: [My Portfolio](https://bhush-portfolio.vercel.app/)
 
 ---
 
